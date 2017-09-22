@@ -113,15 +113,6 @@
     
     <url>
     
-      <loc>https://gvishal.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://gvishal.github.io/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
@@ -192,16 +183,6 @@
     
       <loc>https://gvishal.github.io/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gvishal.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
