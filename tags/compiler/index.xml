@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compiler on Academic</title>
+    <link>https://gvishal.github.io/tags/compiler/</link>
+    <description>Recent content in Compiler on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Vishal Gupta</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/compiler/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Compiler for Decaf Programming Language</title>
+      <link>https://gvishal.github.io/project/compiler/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvishal.github.io/project/compiler/</guid>
+      <description>&lt;p&gt;Developed a compiler front-end for Decaf(a subset of C++) to LLVM IR.&lt;/p&gt;
+
+&lt;p&gt;Wrote the lexical and syntax analyzer (parser), Abstract Syntax Tree generator for the parsed program.&lt;/p&gt;
+
+&lt;p&gt;Implemented the LLVM IR generator to obtain LLVM IR for the source program.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

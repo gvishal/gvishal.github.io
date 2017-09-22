@@ -21,11 +21,11 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://gvishal.github.io/tags/deep-learning/</link>
+      <title>Compiler</title>
+      <link>https://gvishal.github.io/tags/compiler/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gvishal.github.io/tags/deep-learning/</guid>
+      <guid>https://gvishal.github.io/tags/compiler/</guid>
       <description></description>
     </item>
     
@@ -44,6 +44,24 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://gvishal.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Retrieval</title>
+      <link>https://gvishal.github.io/tags/information-retrieval/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvishal.github.io/tags/information-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Os</title>
+      <link>https://gvishal.github.io/tags/os/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvishal.github.io/tags/os/</guid>
       <description></description>
     </item>
     

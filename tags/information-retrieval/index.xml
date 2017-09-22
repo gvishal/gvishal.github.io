@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Retrieval on Academic</title>
+    <link>https://gvishal.github.io/tags/information-retrieval/</link>
+    <description>Recent content in Information Retrieval on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Vishal Gupta</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/information-retrieval/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wikipedia Seach Engine</title>
+      <link>https://gvishal.github.io/project/search-engine/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvishal.github.io/project/search-engine/</guid>
+      <description>&lt;p&gt;Designed and developed an efficient search engine to query archived Wikipedia documents sized 46GB, using secondary indexing and external merge-sort.&lt;/p&gt;
+
+&lt;p&gt;Developed and tested TF/IDF-based heuristics to rank relevant wiki pages. Achieved mean response time of 2 seconds.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
