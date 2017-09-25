@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Vishal Gupta</title>
-    <link>https://gvishal.github.io/project/</link>
+    <link>https://researchweb.iiit.ac.in/~vishal.gupta/project/</link>
     <description>Recent content in Projects on Vishal Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Vishal Gupta</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    <atom:link href="/~vishal.gupta/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Compiler for Decaf Programming Language</title>
-      <link>https://gvishal.github.io/project/compiler/</link>
+      <link>https://researchweb.iiit.ac.in/~vishal.gupta/project/compiler/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gvishal.github.io/project/compiler/</guid>
+      <guid>https://researchweb.iiit.ac.in/~vishal.gupta/project/compiler/</guid>
       <description>&lt;p&gt;Developed a compiler front-end for Decaf(a subset of C++) to LLVM IR.&lt;/p&gt;
 
 &lt;p&gt;Wrote the lexical and syntax analyzer (parser), Abstract Syntax Tree generator for the parsed program.&lt;/p&gt;
@@ -26,19 +26,19 @@
     
     <item>
       <title>External Project</title>
-      <link>https://gvishal.github.io/project/example-external-project/</link>
+      <link>https://researchweb.iiit.ac.in/~vishal.gupta/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gvishal.github.io/project/example-external-project/</guid>
+      <guid>https://researchweb.iiit.ac.in/~vishal.gupta/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wikipedia Seach Engine</title>
-      <link>https://gvishal.github.io/project/search-engine/</link>
+      <link>https://researchweb.iiit.ac.in/~vishal.gupta/project/search-engine/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gvishal.github.io/project/search-engine/</guid>
+      <guid>https://researchweb.iiit.ac.in/~vishal.gupta/project/search-engine/</guid>
       <description>&lt;p&gt;Designed and developed an efficient search engine to query archived Wikipedia documents sized 46GB, using secondary indexing and external merge-sort.&lt;/p&gt;
 
 &lt;p&gt;Developed and tested TF/IDF-based heuristics to rank relevant wiki pages. Achieved mean response time of 2 seconds.&lt;/p&gt;

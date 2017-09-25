@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Vishal Gupta</title>
-    <link>https://researchweb.iiit.ac.in/~vishal.gupta/post/</link>
-    <description>Recent content in Posts on Vishal Gupta</description>
+    <title>Ir on Vishal Gupta</title>
+    <link>https://researchweb.iiit.ac.in/~vishal.gupta/tags/ir/</link>
+    <description>Recent content in Ir on Vishal Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Vishal Gupta</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
-    <atom:link href="/~vishal.gupta/post/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2016 00:00:00 +0530</lastBuildDate>
+    <atom:link href="/~vishal.gupta/tags/ir/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>IR/QA/Reading Comprehension Datasets</title>
