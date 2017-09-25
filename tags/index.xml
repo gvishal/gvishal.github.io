@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vishal Gupta</title>
-    <link>https://researchweb.iiit.ac.in/~vishal.gupta/tags/</link>
+    <link>https://gvishal.github.io/tags/</link>
     <description>Recent content in Tags on Vishal Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Vishal Gupta</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/~vishal.gupta/tags/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://researchweb.iiit.ac.in/~vishal.gupta/tags/academic/</link>
+      <link>https://gvishal.github.io/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://researchweb.iiit.ac.in/~vishal.gupta/tags/academic/</guid>
+      <guid>https://gvishal.github.io/tags/academic/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Compiler</title>
-      <link>https://researchweb.iiit.ac.in/~vishal.gupta/tags/compiler/</link>
+      <link>https://gvishal.github.io/tags/compiler/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://researchweb.iiit.ac.in/~vishal.gupta/tags/compiler/</guid>
+      <guid>https://gvishal.github.io/tags/compiler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Datasets</title>
-      <link>https://researchweb.iiit.ac.in/~vishal.gupta/tags/datasets/</link>
+      <link>https://gvishal.github.io/tags/datasets/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://researchweb.iiit.ac.in/~vishal.gupta/tags/datasets/</guid>
+      <guid>https://gvishal.github.io/tags/datasets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://researchweb.iiit.ac.in/~vishal.gupta/tags/demo/</link>
+      <link>https://gvishal.github.io/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://researchweb.iiit.ac.in/~vishal.gupta/tags/demo/</guid>
+      <guid>https://gvishal.github.io/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Retrieval</title>
-      <link>https://researchweb.iiit.ac.in/~vishal.gupta/tags/information-retrieval/</link>
+      <link>https://gvishal.github.io/tags/information-retrieval/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://researchweb.iiit.ac.in/~vishal.gupta/tags/information-retrieval/</guid>
+      <guid>https://gvishal.github.io/tags/information-retrieval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ir</title>
-      <link>https://researchweb.iiit.ac.in/~vishal.gupta/tags/ir/</link>
+      <link>https://gvishal.github.io/tags/ir/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://researchweb.iiit.ac.in/~vishal.gupta/tags/ir/</guid>
+      <guid>https://gvishal.github.io/tags/ir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Os</title>
-      <link>https://researchweb.iiit.ac.in/~vishal.gupta/tags/os/</link>
+      <link>https://gvishal.github.io/tags/os/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://researchweb.iiit.ac.in/~vishal.gupta/tags/os/</guid>
+      <guid>https://gvishal.github.io/tags/os/</guid>
       <description></description>
     </item>
     

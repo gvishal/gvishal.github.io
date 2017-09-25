@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/tags/academic/</loc>
+      <loc>https://gvishal.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/publication/</loc>
+      <loc>https://gvishal.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/talk/</loc>
+      <loc>https://gvishal.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/post/</loc>
+      <loc>https://gvishal.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/project/compiler/</loc>
+      <loc>https://gvishal.github.io/project/compiler/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/project/example-external-project/</loc>
+      <loc>https://gvishal.github.io/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +59,7 @@
     
     <url>
     
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/project/search-engine/</loc>
+      <loc>https://gvishal.github.io/project/search-engine/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/post/qa-datasets/</loc>
+      <loc>https://gvishal.github.io/post/qa-datasets/</loc>
       <lastmod>2016-04-19T00:00:00+05:30</lastmod>
     </url>
     
@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/publication/clothing-search/</loc>
+      <loc>https://gvishal.github.io/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,96 +86,7 @@
     
     <url>
     
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/tags/compiler/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/tags/datasets/</loc>
-      <lastmod>2016-04-19T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/tags/information-retrieval/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/tags/ir/</loc>
-      <lastmod>2016-04-19T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/tags/os/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/publication_types/</loc>
+      <loc>https://gvishal.github.io/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -185,7 +96,96 @@
     
     <url>
     
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/tags/</loc>
+      <loc>https://gvishal.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gvishal.github.io/tags/compiler/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gvishal.github.io/tags/datasets/</loc>
+      <lastmod>2016-04-19T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gvishal.github.io/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gvishal.github.io/tags/information-retrieval/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gvishal.github.io/tags/ir/</loc>
+      <lastmod>2016-04-19T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gvishal.github.io/tags/os/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gvishal.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gvishal.github.io/publication_types/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gvishal.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -195,7 +195,7 @@
     
     <url>
     
-      <loc>https://researchweb.iiit.ac.in/~vishal.gupta/</loc>
+      <loc>https://gvishal.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

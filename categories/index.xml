@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Vishal Gupta</title>
-    <link>https://researchweb.iiit.ac.in/~vishal.gupta/categories/</link>
+    <link>https://gvishal.github.io/categories/</link>
     <description>Recent content in Categories on Vishal Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Vishal Gupta</copyright>
-    <atom:link href="/~vishal.gupta/categories/" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datasets on Vishal Gupta</title>
-    <link>https://researchweb.iiit.ac.in/~vishal.gupta/tags/datasets/</link>
+    <link>https://gvishal.github.io/tags/datasets/</link>
     <description>Recent content in Datasets on Vishal Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Vishal Gupta</copyright>
     <lastBuildDate>Tue, 19 Apr 2016 00:00:00 +0530</lastBuildDate>
-    <atom:link href="/~vishal.gupta/tags/datasets/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/datasets/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>IR/QA/Reading Comprehension Datasets</title>
-      <link>https://researchweb.iiit.ac.in/~vishal.gupta/post/qa-datasets/</link>
+      <link>https://gvishal.github.io/post/qa-datasets/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://researchweb.iiit.ac.in/~vishal.gupta/post/qa-datasets/</guid>
+      <guid>https://gvishal.github.io/post/qa-datasets/</guid>
       <description>&lt;p&gt;Updated copy of original &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1dxBFhJHbRMzo_OO2k0ttvq9h5Sa1cIHdsfN0UqUyyQ8/edit#gid=0&#34; target=&#34;_blank&#34;&gt;sheet&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://matt-gardner.github.io/paper-thoughts/2016/12/08/reading-comprehension-survey.html&#34; target=&#34;_blank&#34;&gt;Original Post by Matt Gardner&lt;/a&gt;&lt;/p&gt;
